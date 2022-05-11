@@ -1,7 +1,10 @@
 ### Hi there 👋 I am Shrey Trivedi
 Pursuing Bachelor of Technology(B.Tech 2018-22 Batch) from Dr. A.P.J. Abdul Kalam Technical University.
+
 Competitive Programmer(Newbie) .
+
 Writer Sometimes.
+
 Software Engineer Intern .
 
 
