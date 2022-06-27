@@ -15,5 +15,5 @@ Software Engineer Intern .
 - 👯 I’m looking to collaborate on Different Project & Open Source
 - 💬 Ask me about Career Guidance and Problem Solving(C++)
 - 📫 How to reach me:I'll tell you later
-- 😄 Pronouns: 
+- 😄 Pronouns: He
 - ⚡ Fun fact: I play Cricket & Sometimes I write 😄
