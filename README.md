@@ -1,3 +1,4 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shreysomu)
 <h1 align="center">Hi 👋, I'm Shrey Trivedi</h1>
 <h3 align="center">Completed my Graduation (Bachelor of Technology(B.Tech 2018-22 Batch)) from Dr. A.P.J. Abdul Kalam Technical University. Competitive Programmer(Newbie) 😄 . Writer Sometimes. Software Engineer Intern .</h3>
  
@@ -39,4 +40,4 @@
 
 
 ###  Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://github.com/shreysomu/shreysomu/blob/output/github-contribution-grid-snake.gif)
+
