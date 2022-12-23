@@ -17,3 +17,7 @@ Software Engineer Intern .
 - 📫 How to reach me:I'll tell you later
 - 😄 Pronouns: He
 - ⚡ Fun fact: I play Cricket & Sometimes I write 😄
+
+
+###  Watch my Contribution Graph get eaten by the snake 🥳
+![snake gif](https://github.com/shreysomu/shreysomu/blob/output/github-contribution-grid-snake.gif)
