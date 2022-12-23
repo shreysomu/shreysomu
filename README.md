@@ -40,4 +40,4 @@
 
 
 ###  Watch my Contribution Graph get eaten by the snake 🥳
-
+![Snake animation](https://github.com/shreysomu/shreysomu/blob/output/github-contribution-grid-snake.svg)
