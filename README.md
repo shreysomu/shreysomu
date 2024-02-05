@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shreysomu)
 <h1 align="center">Hi 👋, I'm Shrey Trivedi</h1>
-<h3 align="center">Completed my Graduation (Bachelor of Technology(B.Tech 2018-22 Batch)) from Dr. A.P.J. Abdul Kalam Technical University. Competitive Programmer(Newbie) 😄 . Writer Sometimes. Software Engineer .</h3>
+<h3 align="center">Completed my Graduation (Bachelor of Technology(B.Tech 2018-22 Batch)) from Dr. A.P.J. Abdul Kalam Technical University. Competitive Programmer(Newbie) 😄 . Writer Sometimes. Software Engineer at Wipro .</h3>
  
 <img align="right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Java Full stack Development**
+- 🌱 I’m currently learning **App(Android) Development**
 
 - 👯 I’m looking to collaborate on **Different Project & Open Source**
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Career Guidance and Problem Solving(C++)**
 
-- 📫 How to reach me **:I'll tell you later**
+- 📫 How to reach me **:Linkedin**
 
-- ⚡ Fun fact **: I play Cricket & Sometimes I write 😄**
+- ⚡ Fun fact **: I play Cricket & Sometimes also like to write stories and poetreies in Hindi.😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
