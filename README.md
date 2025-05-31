@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shreysomu)
 <h1 align="center">Hi 👋, I'm Shrey Trivedi</h1>
-<h3 align="center">Completed my Graduation (Bachelor of Technology(B.Tech 2018-22 Batch)) from Dr. A.P.J. Abdul Kalam Technical University. Competitive Programmer(Newbie) 😄 . Writer Sometimes. Software Engineer in Wipro .</h3>
+<h3 align="center">Completed my Graduation (Bachelor of Technology(B.Tech 2018-22 Batch)) from Dr. A.P.J. Abdul Kalam Technical University. Competitive Programmer(Newbie) 😄 . Writer Sometimes. Backend Java Developer in Wipro .</h3>
  
 <img align="right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shrey_somu" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_somu?logo=twitter&style=for-the-badge" alt="shrey_somu" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working as **Backend Java Developer**
 
-- 🌱 I’m currently learning **App(Android) Development**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Different Project & Open Source**
 
