@@ -12,17 +12,15 @@
 
 - 🔭 I’m currently working as **Backend Java Developer**
 
-- 🌱 I’m currently learning **Devops**
-
-- 👯 I’m looking to collaborate on **Different Project & Open Source**
-
+- 🌱 I’m currently learning **Devops, Docker, Kubernetes, and Microservices**
+- 💻 Focused on Java Backend Development
+- 🏗️ Building real-world backend projects using Spring Boot
+- 📚 Practicing DSA regularly using Java and C++
+- 🤝 Open to collaboration on Java Backend and Open Source projects
+- ✍️ Occasionally write Hindi poems and stories
+- 🏏 Cricket enthusiast
 - 😄 Pronouns: **He**
-
-- 💬 Ask me about **Career Guidance and Problem Solving(C++)**
-
 - 📫 How to reach me **:Linkedin**
-
-- ⚡ Fun fact **: I play Cricket & Sometimes also like to write stories and poetreies in Hindi.😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
