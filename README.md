@@ -50,7 +50,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="130" src="https://github.com/shreysomu/shreysomu/blob/main/leftWing.png"/>
+  <img height="200" width="450"
   <img src="https://streak-stats.demolab.com?user=shreysomu&theme=tokyonight" />
+  <img height="130" src="https://github.com/shreysomu/shreysomu/blob/main/rightWing.png"/>
+
 </p>
 
 
