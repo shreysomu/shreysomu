@@ -122,3 +122,12 @@
 
 ###  Watch my Contribution Graph get eaten by the snake 🥳
 ![Snake animation](https://raw.githubusercontent.com/shreysomu/shreysomu/output/github-snake-dark.svg)
+
+
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+![footer](https://github.com/shreysomu/shreysomu/blob/main/footer.png)
