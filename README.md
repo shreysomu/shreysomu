@@ -20,7 +20,13 @@
 - ✍️ Occasionally write Hindi poems and stories
 - 🏏 Cricket enthusiast
 - 😄 Pronouns: **He**
-- 📫 How to reach me **:Linkedin**
+- 📫 How to reach me **:[Linkedin](https://linkedin.com/in/shrey-trivedi-29813b193)**
+
+  ## 💻 Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/shrey_somu/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shrey_somu)
+- [HackerRank](https://www.hackerrank.com/profile/shreysomu2211)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +40,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreysomu)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
