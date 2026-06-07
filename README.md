@@ -127,7 +127,7 @@
 ###  Watch my Contribution Graph get eaten by the snake 🥳
 <div align="center">     
   
-![Snake animation](https://raw.githubusercontent.com/shreysomu/shreysomu/output/github-snake-dark.svg)   
+![Snake animation](https://github.com/shreysomu/shreysomu/blob/output/github-snake.svg)   
 
 </div>
 
