@@ -1,4 +1,6 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shreysomu)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreysomu/shreysomu/main/ShreyTrivedi_JavaBackendDeveloperBanner.png" alt="Shrey Trivedi Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Shrey Trivedi</h1>
 <h2 align="center"> Java Backend Developer | Spring Boot | Hibernate | REST APIs | Microservices | MySQL | DSA </h2>
 <h3 align="center">I'm a passionate Backend Developer with experience in Java and Spring Boot. I enjoy building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern backend technologies.</h3>
