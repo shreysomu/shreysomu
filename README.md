@@ -36,8 +36,37 @@
 <a href="https://auth.geeksforgeeks.org/user/shrey_somu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrey_somu" height="30" width="40" /></a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreysomu)      
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreysomu)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Featured Projects
+
+### 📚 Smart Contact Manager
+🔗 [Repository](https://github.com/shreysomu/smart-contact-manager2.0)
+
+- Spring Boot
+- Spring Security
+- Thymeleaf
+- MySQL
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreysomu&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shreysomu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreysomu&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreysomu&theme=tokyonight&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreysomu&theme=tokyo-night" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -106,5 +135,4 @@
 
 
 ###  Watch my Contribution Graph get eaten by the snake 🥳
-![Snake animation](https://github.com/shreysomu/shreysomu/blob/output/github-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/shreysomu/shreysomu/output/github-snake-dark.svg)
