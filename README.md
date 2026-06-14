@@ -39,9 +39,10 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Smart Contact Manager
-🔗 [Repository](https://github.com/shreysomu/smart-contact-manager2.0)
-
+### 📚🔗 [Smart Contact Manager 2.0](https://github.com/shreysomu/smart-contact-manager2.0)         
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-green)
+![Status](https://img.shields.io/badge/Status-In_Progress-blue)
 - Spring Boot
 - Spring Security
 - Thymeleaf
