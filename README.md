@@ -136,6 +136,16 @@
 
 </p>
 
+## ⚡ Tech Stack
+
+- **Backend**: Java, Spring Boot, Hibernate, REST APIs, Microservices     
+- **Database**: MySQL, PostgreSQL, MongoDB     
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins      
+- **Tools**: Git, GitHub, Postman, Linux      
+- **Programming**: Java, C++
+
+  
+
 
 ###  Watch my Contribution Graph get eaten by the snake 🥳
 <div align="center">     
