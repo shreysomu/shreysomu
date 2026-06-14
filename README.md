@@ -12,7 +12,6 @@
 <p align="left"> <a href="https://twitter.com/shrey_somu" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_somu?logo=twitter&style=for-the-badge" alt="shrey_somu" /></a> </p>
 
 - 🔭 I’m currently working as **Backend Java Developer**
-
 - 🌱 I’m currently learning **Devops, Docker, Kubernetes, and Microservices**
 - 💻 Focused on Java Backend Development
 - 🏗️ Building real-world backend projects using Spring Boot
@@ -39,6 +38,17 @@
 
 ## 🚀 Featured Projects
 
+### 📚🔗 [number-guessing-game-java](https://github.com/shreysomu/number-guessing-game-java)        
+![Java](https://img.shields.io/badge/Java-basics-orange)  ![Status](https://img.shields.io/badge/Status-Completed-green)
+
+
+* Java
+* Scanner Class
+* Math.random()
+* Loops
+* Conditional Statements
+* Methods
+
 ### 📚🔗 [Smart Contact Manager 2.0](https://github.com/shreysomu/smart-contact-manager2.0)         
 ![Java](https://img.shields.io/badge/Java-Backend-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-green)
@@ -50,12 +60,14 @@
 
 ## 📊 GitHub Statistics
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreysomu&show_icons=true&theme=tokyonight" />
+</p>
 <p align="center">
   <img height="130" src="https://github.com/shreysomu/shreysomu/blob/main/leftWing.png"/>
   <img height="200" width="450"
   <img src="https://streak-stats.demolab.com?user=shreysomu&theme=tokyonight" />
   <img height="130" src="https://github.com/shreysomu/shreysomu/blob/main/rightWing.png"/>
-
 </p>
 
 
