@@ -69,6 +69,12 @@
   <img src="https://streak-stats.demolab.com?user=shreysomu&theme=tokyonight" />
   <img height="130" src="https://github.com/shreysomu/shreysomu/blob/main/rightWing.png"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreysomu&layout=compact&theme=tokyonight" />
+</p>
+
+
+
 
 
 <p align="center">
