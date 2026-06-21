@@ -48,6 +48,9 @@
 * Loops
 * Conditional Statements
 * Methods
+### 📚🔗 [tic-tac-toe-java-console-game](https://github.com/shreysomu/tic-tac-toe-java-console-game/tree/main)        
+![Java](https://img.shields.io/badge/Java-17-orange) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)           
+A simple console-based **Tic Tac Toe** game built using Java. This project demonstrates core Java concepts such as arrays, loops, methods, exception handling, conditional statements, and user input validation.
 
 ### 📚🔗 [Smart Contact Manager 2.0](https://github.com/shreysomu/smart-contact-manager2.0)         
 ![Java](https://img.shields.io/badge/Java-Backend-orange)
