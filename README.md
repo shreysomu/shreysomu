@@ -1,8 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shreysomu/shreysomu/main/ShreyTrivedi_JavaBackendDeveloperBanner.png" alt="Shrey Trivedi Banner" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Shrey Trivedi</h1>
-<h3 align="center"> Java Backend Developer | Spring Boot | Microservices | Hibernate | REST APIs | MySQL | AWS | Docker | DSA </h3>
+<div align="center">
+
+# Hi 👋, I'm Shrey Trivedi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Java+%7C+Hibernate+%7C+MySQL+%7C+AWS;DSA+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+</div>
 <h4 align="center">I'm a passionate Backend Developer with experience in Java and Spring Boot. I enjoy building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern backend technologies.</h4>
  
 
